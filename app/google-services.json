@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1065916392882",
+    "firebase_url": "https://passenger-app-c9975.firebaseio.com",
+    "project_id": "passenger-app-c9975",
+    "storage_bucket": "passenger-app-c9975.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065916392882:android:777c5132d23725b1c830ab",
+        "android_client_info": {
+          "package_name": "com.s.passengerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065916392882-k6esmmnasbibhu2u1942tshavjri2ee1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.s.passengerapp",
+            "certificate_hash": "2f29039ebcfe993eabbc73ed187a88c2cd947c51"
+          }
+        },
+        {
+          "client_id": "1065916392882-khh3nk9nkg4502fn1494iqgbl87r0aom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0rd-wqXnvhE67IpixENk52aB8AMUsf8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065916392882-khh3nk9nkg4502fn1494iqgbl87r0aom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
